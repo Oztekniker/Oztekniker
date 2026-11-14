@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://oztekniker.com">oztekniker.com</a> ·
-  <a href="https://www.linkedin.com/in/arda-oztekniker](https://www.linkedin.com/in/arda-oztekniker-41776b44b">LinkedIn</a> ·
+  <a href="www.linkedin.com/in/ardaoztekniker">LinkedIn</a> ·
   <a href="mailto:ozteknikerarda@gmail.com">ozteknikerarda@gmail.com</a>
 </p>
 
