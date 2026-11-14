@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Arda Öztekniker</h1>
 
-<!--
-**Oztekniker/Oztekniker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://oztekniker.com">oztekniker.com</a> ·
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">LinkedIn</a> ·
+  <a href="mailto:ozteknikerarda@gmail.com">ozteknikerarda@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+- **[NOXIS](#)** — a voice AI assistant on the Claude API, with Whisper speech-to-text, a wake word and a formal, warm persona.
+- **[DietTracker](#)** — a calorie and macro tracker for iOS, built from scratch in SwiftUI, with barcode scanning and a Turkish food database.
+- **[Portfolio v2](https://github.com/Oztekniker/oztekniker.com)** — my site: a 3D chrome chain that runs through the whole page, in React, Three.js and GSAP.
+
+### Stack
+
+- **Languages** · Swift · JavaScript · Java · C · Python
+- **Apple** · SwiftUI · SwiftData · VisionKit
+- **Web** · React · Three.js / React Three Fiber · GSAP · Tailwind CSS · Vite
+- **AI** · Claude API · Whisper
+- **Also** · Figma · electronics and hardware builds
+
+### Right now
+
+Third-year software engineering student at Eastern Mediterranean University. Learning by building, from the docs and by hand, until it works.
